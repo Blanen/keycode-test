@@ -1,5 +1,7 @@
 # vue-shortkey-bug
 
+Demo for bug in vue-shortkey
+
 ## Project setup
 ```
 npm install
